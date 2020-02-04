@@ -1,0 +1,2 @@
+set CC_FOR_TARGET "/usr/bin/ccache /home/anna/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -target i686-linux-android21 -fomit-frame-pointer -march=i686 -mtune=intel -mssse3 -mfpmath=sse -m32"
+set CXX_FOR_TARGET "/usr/bin/ccache /home/anna/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ -target i686-linux-android21 -fomit-frame-pointer -march=i686 -mtune=intel -mssse3 -mfpmath=sse -m32"

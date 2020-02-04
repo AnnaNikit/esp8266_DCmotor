@@ -1,0 +1,3 @@
+[console_scripts]
+bootstrap = micropython.bootstrap:main
+

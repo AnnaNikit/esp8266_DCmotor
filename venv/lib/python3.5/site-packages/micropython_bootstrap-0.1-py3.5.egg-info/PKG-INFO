@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: micropython-bootstrap
+Version: 0.1
+Summary: Simplified way to build and deploy apps to IoT devices that use micropython
+Home-page: http://github.com/jbilligmeier/micropython-bootstrap
+Author: Josh Billigmeier
+Author-email: joshua@billigmeier.org
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
